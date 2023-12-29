@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Alexander 👋
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **MrSlead/MrSlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlead&hide=TeX&layout=compact)
